@@ -1,1 +1,1 @@
-Empty new tab for Google Chrome.
+Dark empty new tab for Google Chrome.
