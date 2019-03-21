@@ -1,7 +1,7 @@
 {
     "name": "Dark Empty New Tab",
     "description": "Create dark empty new tab.",
-    "version": "0.3",
+    "version": "0.4",
 		"manifest_version": 2,
 		"icons": { "16": "e16.png",
 						 "48": "e48.png",
